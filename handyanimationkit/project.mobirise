@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "HANDYANIMATIONKIT",
-    "currentPage": "index.html",
+    "currentPage": "th9hvki7.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -1603,66 +1603,50 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "title": "<span style=\"font-size: 32px;\">13 Static Frame Cardboard</span>",
-          "text": "",
-          "buttons": "<p><a class=\"btn mbr-title-font cta-btn btn-default\" href=\"https://drive.google.com/uc?authuser=0&amp;id=1P6tsL5Ymo-sk_OBFq9n4aekgn8jFUgUp\" data-app-btn=\"true\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">download</a></p>",
-          "alias": "unicore/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-3r"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
+            "showForm": false,
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/11.jpg",
             "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#f52549",
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
+            "overlayColor": "#29d9c2",
+            "overlayOpacity": "0.5"
           },
-          "title": "<span style=\"font-size: 32px;\">EXCLUSIVE BONUS</span><p><span style=\"font-size: 32px; background-color: inherit;\">30 FRAME BRUSH STYLE/TEXT BOX&nbsp;</span><br></p><p><span style=\"font-size: 32px;\"><br></span></p>",
-          "text": "<br data-mce-bogus=\"1\">",
-          "buttons": "<p><a class=\"btn mbr-title-font cta-btn btn-warning\" href=\"https://drive.google.com/uc?export=download&amp;confirm=x_74&amp;id=1lgfPaLnX5Jxasn9Ek7_yvE2c10btRbFn\" data-app-btn=\"true\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">download</a></p>",
+          "title1": "Thank You&nbsp;<br>For Purchasing",
+          "text": "CLICK ON THE BUTTONS BELOW TO DOWNLOAD ALL PURCHASED FILES",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-primary btn-block\">SUBSCRIBE</a>",
+          "form": {
+            "title": "SUBSCRIBE",
+            "action": "putraelbama@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Full Name",
+                "customTitle": "Full Name"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email Address here"
+              }
+            }
+          },
           "alias": "unicore/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-3s",
-          "_styles": {
-            "SPAN": {
-              "color": "#b8d00a"
-            }
-          }
+          "_name": "header4",
+          "_anchor": "header4-2s"
         },
         {
           "_params": {
@@ -1738,55 +1722,6 @@
           ],
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-8"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showForm": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/11.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#29d9c2",
-            "overlayOpacity": "0.5"
-          },
-          "title1": "Thank You&nbsp;<br>For Purchasing",
-          "text": "CLICK ON THE BUTTONS BELOW TO DOWNLOAD ALL PURCHASED FILES",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-primary btn-block\">SUBSCRIBE</a>",
-          "form": {
-            "title": "SUBSCRIBE",
-            "action": "putraelbama@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Full Name",
-                "customTitle": "Full Name"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email Address here"
-              }
-            }
-          },
-          "alias": "unicore/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header4",
-          "_anchor": "header4-2s"
         },
         {
           "_params": {
@@ -2332,6 +2267,71 @@
           ],
           "_name": "msg-box2",
           "_anchor": "msg-box2-3j"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<span style=\"font-size: 32px;\">13 Static Frame Cardboard</span>",
+          "text": "",
+          "buttons": "<p><a class=\"btn mbr-title-font cta-btn btn-default\" href=\"https://drive.google.com/uc?authuser=0&amp;id=1P6tsL5Ymo-sk_OBFq9n4aekgn8jFUgUp\" data-app-btn=\"true\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">download</a></p>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-3r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#f52549",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<span style=\"font-size: 32px;\">EXCLUSIVE BONUS</span><p><span style=\"font-size: 32px; background-color: inherit;\">30 FRAME BRUSH STYLE/TEXT BOX&nbsp;</span><br></p><p><span style=\"font-size: 32px;\"><br></span></p>",
+          "text": "<br data-mce-bogus=\"1\">",
+          "buttons": "<p><a class=\"btn mbr-title-font cta-btn btn-warning\" href=\"https://drive.google.com/uc?export=download&amp;confirm=x_74&amp;id=1lgfPaLnX5Jxasn9Ek7_yvE2c10btRbFn\" data-app-btn=\"true\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">download</a></p>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-3s",
+          "_styles": {
+            "SPAN": {
+              "color": "#b8d00a"
+            }
+          }
         }
       ]
     }

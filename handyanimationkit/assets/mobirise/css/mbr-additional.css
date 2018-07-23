@@ -390,9 +390,6 @@ p {
 #msg-box6-22 H1 {
   font-size: 46px;
 }
-#msg-box2-3s SPAN {
-  color: #b8d00a;
-}
 #dropdown-menu-8 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -418,4 +415,7 @@ p {
 }
 #features2-2y P {
   font-size: 21px;
+}
+#msg-box2-3s SPAN {
+  color: #b8d00a;
 }
