@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "HANDYANIMATIONKIT",
-    "currentPage": "th9hvki7.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -27,7 +27,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 137,
+    "uniqCompNum": 138,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -124,7 +124,7 @@
             }
           },
           "title": "<strong>Tired Of Using The Same Old Content, Footage, and Element For Your Videos?</strong>",
-          "text": "<span style=\"color: #000000;\" data-mce-style=\"color: #000000;\"><strong>Get Instant Access To This Rich Collection Of <span style=\"color: #000000;\" data-mce-style=\"color: #000000;\">Snaky Hand Video Style.</span></strong></span><br><span style=\"color: #000000;\" data-mce-style=\"color: #000000;\"><strong><span style=\"color: #000000;\" data-mce-style=\"color: #000000;\"><br></span></strong></span><span contenteditable=\"false\" data-mce-object=\"iframe\" class=\"mce-preview-object mce-object-iframe\" data-mce-p-allowfullscreen=\"allowfullscreen\" data-mce-p-frameborder=\"0\" data-mce-p-src=\"https://www.youtube.com/embed/ZGjrE-BDicc\"><iframe src=\"https://www.youtube.com/embed/ZGjrE-BDicc\" allowfullscreen=\"allowfullscreen\" width=\"560\" height=\"315\" frameborder=\"0\"></iframe><span class=\"mce-shim\"></span></span>",
+          "text": "<span style=\"color: #000000;\" data-mce-style=\"color: #000000;\"><strong>Get Instant Access To This Rich Collection Of </strong></span><br><span style=\"color: #000000;\" data-mce-style=\"color: #000000;\"><strong>Handy Animations In A Highly Engagine Style.<br></strong></span><br><span style=\"color: #000000;\" data-mce-style=\"color: #000000;\"><strong><span style=\"color: #000000;\" data-mce-style=\"color: #000000;\"><br></span></strong></span><span contenteditable=\"false\" data-mce-object=\"iframe\" class=\"mce-preview-object mce-object-iframe\" data-mce-p-allowfullscreen=\"allowfullscreen\" data-mce-p-frameborder=\"0\" data-mce-p-src=\"https://www.youtube.com/embed/vgPvsLpMH50\"><iframe src=\"https://www.youtube.com/embed/vgPvsLpMH50\" allowfullscreen=\"allowfullscreen\" width=\"560\" height=\"315\" frameborder=\"0\"></iframe><span class=\"mce-shim\"></span></span>",
           "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary btn-shadow\">Purchase Now</a><a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-default btn-border btn-shadow\">Learn More</a>",
           "alias": "unicore/components",
           "_tags": [
@@ -637,7 +637,6 @@
           "text5": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
           "media6": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img img-responsive post-thumb",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/blank-58x58.png",
@@ -650,7 +649,8 @@
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": false
+              "loop": false,
+              "active": true
             }
           },
           "title6": "Bakery egg foods around the world",
@@ -1786,7 +1786,7 @@
           "title1": "GET COOL DISCOUNT FOR EASY VIDEO LAB VERSION",
           "text": "USE THIS coupon code for $15 off Easy Video Lab.<br>cmotionteam15off<br>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-block btn-lg btn-default\">Get free Trial</a>",
-          "buttons1": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">get easy video lab discount<i class=\"fa fa-angle-right\"></i></a>",
+          "buttons1": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-lg btn-primary\" href=\"https://www.jvzoo.com/affiliates/info/255987\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">get easy video lab discount<i class=\"fa fa-angle-right\"></i></a>",
           "form": {
             "title": "SUBSCRIBE",
             "action": "putraelbama@gmail.com",
