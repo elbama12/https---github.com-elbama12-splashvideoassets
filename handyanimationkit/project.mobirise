@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "HANDYANIMATIONKIT",
-    "currentPage": "th9hvki7.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -27,7 +27,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 138,
+    "uniqCompNum": 141,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -213,7 +213,7 @@
             "showText": true,
             "showMedia": false,
             "showButtons": false,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/19.jpg",
@@ -243,8 +243,8 @@
               "loop": false
             }
           },
-          "title": "<span style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: #000000;\"><strong>Grab Your Copy Now!</strong></span>",
-          "text": "<span style=\"font-size: 18pt;\" data-mce-style=\"font-size: 18pt;\">Personal &amp; Developer Rights Included! </span><br><span style=\"font-size: 18pt;\" data-mce-style=\"font-size: 18pt;\">30-Day Money Back Guarantee</span><br><span style=\"font-size: 18pt;\" data-mce-style=\"font-size: 18pt;\"><br></span><a href=\"https://www.jvzoo.com/b/49199/216217/6\" data-mce-href=\"https://www.jvzoo.com/b/49199/216217/6\"><img src=\"https://i.jvzoo.com/49199/216217/6\" alt=\"HQ Motion Assets\" border=\"0\" data-mce-src=\"https://i.jvzoo.com/49199/216217/6\"></a>",
+          "title": "<strong>Grab Your Copy Now!</strong>",
+          "text": "<span style=\"font-size: 18pt;\" data-mce-style=\"font-size: 18pt;\">Personal &amp; Developer Rights Included! </span><br><span style=\"font-size: 18pt;\" data-mce-style=\"font-size: 18pt;\">30-Day Money Back Guarantee</span><br><span style=\"font-size: 18pt;\" data-mce-style=\"font-size: 18pt;\"><br></span><a href=\"https://www.jvzoo.com/b/0/308895/2\" data-mce-href=\"https://www.jvzoo.com/b/0/308895/2\"><img src=\"https://i.jvzoo.com/0/308895/2\" alt=\"Handy Animation Kit\" border=\"0\" data-mce-src=\"https://i.jvzoo.com/0/308895/2\"></a>",
           "buttons": "<a class=\"mbr-title-font mbr-primary-bgColor\" data-app-btn=\"true\" href=\"#\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-mobile\"></i><span class=\"mbr-text-font\">Available at</span>AppStore</a>",
           "alias": "unicore/components",
           "_tags": [
@@ -257,15 +257,9 @@
             },
             "H3": {
               "color": "#333333"
-            },
-            "STRONG": {
-              "color": "#29d9c2"
-            },
-            "SPAN": {
-              "color": "#000000"
             }
           },
-          "_anchor": "header12-1f"
+          "_anchor": "header12-3v"
         },
         {
           "_params": {
@@ -1498,7 +1492,7 @@
             }
           },
           "title": "<strong>Grab Your Copy Now!</strong>",
-          "text": "<span style=\"font-size: 18pt;\">Personal &amp; Developer Rights Included! </span><br><span style=\"font-size: 18pt;\">30-Day Money Back Guarantee</span><br><span style=\"font-size: 18pt;\"><br></span><a href=\"https://www.jvzoo.com/b/49199/216217/6\"><img src=\"https://i.jvzoo.com/49199/216217/6\" alt=\"HQ Motion Assets\" border=\"0\"></a>",
+          "text": "<span style=\"font-size: 18pt;\" data-mce-style=\"font-size: 18pt;\">Personal &amp; Developer Rights Included! </span><br><span style=\"font-size: 18pt;\" data-mce-style=\"font-size: 18pt;\">30-Day Money Back Guarantee</span><br><span style=\"font-size: 18pt;\" data-mce-style=\"font-size: 18pt;\"><br></span><a href=\"https://www.jvzoo.com/b/0/308895/2\" data-mce-href=\"https://www.jvzoo.com/b/0/308895/2\"><img src=\"https://i.jvzoo.com/0/308895/2\" alt=\"Handy Animation Kit\" border=\"0\" data-mce-src=\"https://i.jvzoo.com/0/308895/2\"></a>",
           "buttons": "<a class=\"mbr-title-font mbr-primary-bgColor\" data-app-btn=\"true\" href=\"#\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-mobile\"></i><span class=\"mbr-text-font\">Available at</span>AppStore</a>",
           "alias": "unicore/components",
           "_tags": [
