@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "HANDYANIMATIONKIT",
-    "currentPage": "index.html",
+    "currentPage": "th9hvki7.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -27,7 +27,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 141,
+    "uniqCompNum": 145,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -447,7 +447,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "header": "5 Done For You Template&nbsp;",
+          "header": "6 Done For You Template&nbsp;",
           "subheader": "Easy to Edit and Replace in Few Minutes",
           "media1": {
             "image": {
@@ -2313,7 +2313,7 @@
             "overlayOpacity": 0.75
           },
           "title": "<span style=\"font-size: 32px;\">EXCLUSIVE BONUS</span><p><span style=\"font-size: 32px; background-color: inherit;\">30 FRAME BRUSH STYLE/TEXT BOX&nbsp;</span><br></p><p><span style=\"font-size: 32px;\"><br></span></p>",
-          "text": "<br data-mce-bogus=\"1\">",
+          "text": "",
           "buttons": "<p><a class=\"btn mbr-title-font cta-btn btn-warning\" href=\"https://drive.google.com/uc?export=download&amp;confirm=x_74&amp;id=1lgfPaLnX5Jxasn9Ek7_yvE2c10btRbFn\" data-app-btn=\"true\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">download</a></p>",
           "alias": "unicore/components",
           "_tags": [
@@ -2326,6 +2326,41 @@
               "color": "#b8d00a"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#336a86",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<span style=\"font-size: 32px;\">GET 2 MORE EXCLUSIVE PREMIUM BONUSES</span>",
+          "text": "<br data-mce-bogus=\"1\">",
+          "buttons": "<p><a class=\"btn mbr-title-font cta-btn btn-warning\" href=\"http://easyvideomarket.com/exclusive-premium-bonuses\" target=\"_blank\" rel=\"noopener\" data-app-btn=\"true\" data-toolbar=\"-mbrBtnMove\">GET THE BONUSES HERE</a></p>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_styles": {
+            "SPAN": {
+              "color": "#b8d00a"
+            }
+          },
+          "_anchor": "msg-box2-3z"
         }
       ]
     }
