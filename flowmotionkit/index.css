@@ -1,0 +1,1529 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#Layer2
+{
+   background-color: transparent;
+   background-image: url(images/patternq.png);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-attachment: fixed;
+   background-position: 50% 0;
+   background-size: cover;
+}
+#Layer5
+{
+   background-color: #10191B;
+   background-image: none;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text1 div
+{
+   text-align: center;
+}
+#Layer6
+{
+   background-color: #17252A;
+   background-image: none;
+   filter: alpha(opacity=80);
+   opacity: 0.80;
+}
+#Layer1
+{
+   background-color: #17252A;
+   background-image: none;
+   -moz-box-shadow: 0px 1px 8px #000000;
+   -webkit-box-shadow: 0px 1px 8px #000000;
+   box-shadow: 0px 1px 8px #000000;
+}
+#Image1
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text2 div
+{
+   text-align: center;
+}
+#YouTube1
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text6 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text6 div
+{
+   text-align: left;
+}
+#wb_FontAwesomeIcon1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #245580 solid;
+   text-align: center;
+   padding: 0px 0px 0px 0px;
+}
+#wb_FontAwesomeIcon1:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #245580 solid;
+}
+#FontAwesomeIcon1
+{
+   height: 26px;
+   width: 30px;
+}
+#FontAwesomeIcon1 i
+{
+   color: #FF8C00;
+   display: inline-block;
+   font-size: 26px;
+   line-height: 26px;
+   vertical-align: middle;
+   width: 21px;
+}
+#wb_FontAwesomeIcon1:hover i
+{
+   color: #D76A09;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text3 div
+{
+   text-align: left;
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text5 div
+{
+   text-align: left;
+}
+#wb_FontAwesomeIcon3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #245580 solid;
+   text-align: center;
+   padding: 0px 0px 0px 0px;
+}
+#wb_FontAwesomeIcon3:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #245580 solid;
+}
+#FontAwesomeIcon3
+{
+   height: 26px;
+   width: 30px;
+}
+#FontAwesomeIcon3 i
+{
+   color: #FF8C00;
+   display: inline-block;
+   font-size: 26px;
+   line-height: 26px;
+   vertical-align: middle;
+   width: 21px;
+}
+#wb_FontAwesomeIcon3:hover i
+{
+   color: #D76A09;
+}
+#wb_FontAwesomeIcon5
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #245580 solid;
+   text-align: center;
+   padding: 0px 0px 0px 0px;
+}
+#wb_FontAwesomeIcon5:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #245580 solid;
+}
+#FontAwesomeIcon5
+{
+   height: 26px;
+   width: 30px;
+}
+#FontAwesomeIcon5 i
+{
+   color: #FF8C00;
+   display: inline-block;
+   font-size: 26px;
+   line-height: 26px;
+   vertical-align: middle;
+   width: 21px;
+}
+#wb_FontAwesomeIcon5:hover i
+{
+   color: #D76A09;
+}
+#Layer7
+{
+   background-color: transparent;
+   background-image: none;
+}
+#Layer8
+{
+   background-color: #FF8C00;
+   background-image: none;
+}
+#wb_Text9 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text9 div
+{
+   text-align: center;
+}
+#wb_Text10 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text10 div
+{
+   text-align: left;
+}
+#wb_FontAwesomeIcon7
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #245580 solid;
+   text-align: center;
+   padding: 0px 0px 0px 0px;
+}
+#wb_FontAwesomeIcon7:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #245580 solid;
+}
+#FontAwesomeIcon7
+{
+   height: 26px;
+   width: 30px;
+}
+#FontAwesomeIcon7 i
+{
+   color: #FF8C00;
+   display: inline-block;
+   font-size: 26px;
+   line-height: 26px;
+   vertical-align: middle;
+   width: 21px;
+}
+#wb_FontAwesomeIcon7:hover i
+{
+   color: #D76A09;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text4 div
+{
+   text-align: left;
+}
+#wb_FontAwesomeIcon2
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #245580 solid;
+   text-align: center;
+   padding: 0px 0px 0px 0px;
+}
+#wb_FontAwesomeIcon2:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #245580 solid;
+}
+#FontAwesomeIcon2
+{
+   height: 26px;
+   width: 30px;
+}
+#FontAwesomeIcon2 i
+{
+   color: #FF8C00;
+   display: inline-block;
+   font-size: 26px;
+   line-height: 26px;
+   vertical-align: middle;
+   width: 21px;
+}
+#wb_FontAwesomeIcon2:hover i
+{
+   color: #D76A09;
+}
+#Layer3
+{
+   background-color: #F5F5F5;
+   background-image: none;
+}
+#buycontainer
+{
+   background-color: transparent;
+   background-image: none;
+}
+#wb_Text12 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text12 div
+{
+   text-align: center;
+}
+#wb_Text7 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text7 div
+{
+   text-align: center;
+}
+#Layer4
+{
+   background-color: #10191B;
+   background-image: none;
+}
+#Layer9
+{
+   background-color: transparent;
+   background-image: none;
+}
+#wb_Text14 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text14 div
+{
+   text-align: center;
+}
+#Layer10
+{
+   background-color: #F5F5F5;
+   background-image: none;
+}
+#Layer11
+{
+   background-color: transparent;
+   background-image: none;
+}
+#Image2
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text8 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text8 div
+{
+   text-align: center;
+}
+#wb_Text11 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text11 div
+{
+   text-align: center;
+}
+#Layer12
+{
+   background-color: transparent;
+   background-image: none;
+}
+#Image3
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text13 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text13 div
+{
+   text-align: center;
+}
+#wb_Text15 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text15 div
+{
+   text-align: center;
+}
+#Layer13
+{
+   background-color: transparent;
+   background-image: none;
+}
+#Image4
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text16 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text16 div
+{
+   text-align: center;
+}
+#wb_Text17 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text17 div
+{
+   text-align: center;
+}
+#Layer14
+{
+   background-color: #F5F5F5;
+   background-image: none;
+}
+#Layer15
+{
+   background-color: transparent;
+   background-image: none;
+}
+#wb_Text19 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text19 div
+{
+   text-align: center;
+}
+#wb_Text20 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text20 div
+{
+   text-align: center;
+}
+#Layer16
+{
+   background-color: #808080;
+   background-image: none;
+}
+#YouTube2
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer17
+{
+   background-color: #10191B;
+   background-image: none;
+}
+#Layer18
+{
+   background-color: transparent;
+   background-image: none;
+}
+#wb_Text18 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text18 div
+{
+   text-align: center;
+}
+#Layer19
+{
+   background-color: #F5F5F5;
+   background-image: none;
+}
+#Layer20
+{
+   background-color: transparent;
+   background-image: none;
+}
+#wb_Text21 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text21 div
+{
+   text-align: center;
+}
+#wb_Text22 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text22 div
+{
+   text-align: center;
+}
+#Layer21
+{
+   background-color: #808080;
+   background-image: none;
+}
+#Layer22
+{
+   background-color: #808080;
+   background-image: none;
+}
+#Layer23
+{
+   background-color: #808080;
+   background-image: none;
+}
+#Layer24
+{
+   background-color: #808080;
+   background-image: none;
+}
+#Layer25
+{
+   background-color: #808080;
+   background-image: none;
+}
+#Layer26
+{
+   background-color: #808080;
+   background-image: none;
+}
+#YouTube3
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#YouTube4
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#YouTube5
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#YouTube6
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#YouTube7
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#YouTube8
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer29
+{
+   background-color: #F5F5F5;
+   background-image: none;
+}
+#Layer30
+{
+   background-color: transparent;
+   background-image: none;
+}
+#wb_Text24 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text24 div
+{
+   text-align: center;
+}
+#wb_Text25 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text25 div
+{
+   text-align: center;
+}
+#Layer27
+{
+   background-color: #808080;
+   background-image: none;
+}
+#YouTube9
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer28
+{
+   background-color: #F5F5F5;
+   background-image: none;
+}
+#Layer31
+{
+   background-color: transparent;
+   background-image: none;
+}
+#wb_Text23 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text23 div
+{
+   text-align: center;
+}
+#wb_Text26 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text26 div
+{
+   text-align: center;
+}
+#Layer32
+{
+   background-color: #808080;
+   background-image: none;
+}
+#YouTube10
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer33
+{
+   background-color: #F5F5F5;
+   background-image: none;
+}
+#Layer34
+{
+   background-color: transparent;
+   background-image: none;
+}
+#wb_Text27 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text27 div
+{
+   text-align: center;
+}
+#wb_Text28 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text28 div
+{
+   text-align: center;
+}
+#Layer35
+{
+   background-color: #808080;
+   background-image: none;
+}
+#YouTube11
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer36
+{
+   background-color: #F5F5F5;
+   background-image: none;
+}
+#Layer37
+{
+   background-color: transparent;
+   background-image: none;
+}
+#wb_Text29 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text29 div
+{
+   text-align: center;
+}
+#wb_Text30 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text30 div
+{
+   text-align: center;
+}
+#Layer38
+{
+   background-color: #808080;
+   background-image: none;
+}
+#YouTube12
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer39
+{
+   background-color: #F5F5F5;
+   background-image: none;
+}
+#Layer40
+{
+   background-color: transparent;
+   background-image: none;
+}
+#wb_Text31 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text31 div
+{
+   text-align: center;
+}
+#wb_Text32 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text32 div
+{
+   text-align: center;
+}
+#Layer41
+{
+   background-color: #808080;
+   background-image: none;
+}
+#YouTube13
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer42
+{
+   background-color: #808080;
+   background-image: none;
+}
+#Layer43
+{
+   background-color: transparent;
+   background-image: none;
+}
+#wb_Text33 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text33 div
+{
+   text-align: center;
+}
+#wb_Text34 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text34 div
+{
+   text-align: center;
+}
+#Layer44
+{
+   background-color: #F5F5F5;
+   background-image: none;
+}
+#Layer45
+{
+   background-color: transparent;
+   background-image: none;
+}
+#wb_Text35 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text35 div
+{
+   text-align: center;
+}
+#Layer46
+{
+   background-color: #F5F5F5;
+   background-image: none;
+}
+#Layer47
+{
+   background-color: transparent;
+   background-image: none;
+}
+#wb_Text37 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text37 div
+{
+   text-align: center;
+}
+#Article1
+{
+   background-color: transparent;
+   border-width: 0;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.2;
+   text-align: left;
+}
+#Article1 .blogitem
+{
+   margin-bottom: 6px;
+   padding: 0px;
+}
+#Article1 .blogdate
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 13px;
+   color: #000000;
+}
+#Article1 .blogsubject, #Article1 .blogsubject a:link, #Article1 .blogsubject a:visited, #Article1 .blogsubject a:hover
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 20px;
+   color: #666666;
+   text-decoration: none;
+}
+#Article1 .blogcomments, #Article1 .blogcomments a:link, #Article1 .blogcomments a:visited, #Article1 .blogcomments a:hover
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   color: #000000;
+   text-decoration: underline;
+}
+#Article1 .blogcomments
+{
+   text-decoration: none;
+}
+#Article1 .no-thumb
+{
+   display: none;
+}
+#Article1 .blogsubject
+{
+   display: block;
+   margin: 0;
+   padding: 0;
+}
+#Article1 .blogthumb
+{
+   margin: 0 0 5px 0;
+   float: right;
+   padding: 0 5px 0 0;
+}
+#Article1 .blogthumb img
+{
+   border-width: 0px;
+   width: 120px;
+   height: auto;
+}
+#Article1 .blogdate, #Article1 .blogcomments
+{
+   display: none;
+}
+#Article1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px transparent solid;
+   font-family: Arial;
+   font-weight: normal;
+}
+#Layer48
+{
+   background-color: #FFFFFF;
+   background-image: none;
+   border: 1px transparent solid;
+}
+#Layer49
+{
+   background-color: #F5F5F5;
+   background-image: none;
+   border: 1px transparent solid;
+}
+#Article2
+{
+   background-color: transparent;
+   border-width: 0;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.2;
+   text-align: left;
+}
+#Article2 .blogitem
+{
+   margin-bottom: 6px;
+   padding: 0px;
+}
+#Article2 .blogdate
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 13px;
+   color: #000000;
+}
+#Article2 .blogsubject, #Article2 .blogsubject a:link, #Article2 .blogsubject a:visited, #Article2 .blogsubject a:hover
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 20px;
+   color: #666666;
+   text-decoration: none;
+}
+#Article2 .blogcomments, #Article2 .blogcomments a:link, #Article2 .blogcomments a:visited, #Article2 .blogcomments a:hover
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   color: #000000;
+   text-decoration: underline;
+}
+#Article2 .blogcomments
+{
+   text-decoration: none;
+}
+#Article2 .no-thumb
+{
+   display: none;
+}
+#Article2 .blogsubject
+{
+   display: block;
+   margin: 0;
+   padding: 0;
+}
+#Article2 .blogthumb
+{
+   margin: 0 0 5px 0;
+   float: right;
+   padding: 0 5px 0 0;
+}
+#Article2 .blogthumb img
+{
+   border-width: 0px;
+   width: 120px;
+   height: auto;
+}
+#Article2 .blogdate, #Article2 .blogcomments
+{
+   display: none;
+}
+#Article2
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px transparent solid;
+   font-family: Arial;
+   font-weight: normal;
+}
+#Layer50
+{
+   background-color: #FFFFFF;
+   background-image: none;
+   border: 1px transparent solid;
+}
+#Article3
+{
+   background-color: transparent;
+   border-width: 0;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.2;
+   text-align: left;
+}
+#Article3 .blogitem
+{
+   margin-bottom: 6px;
+   padding: 0px;
+}
+#Article3 .blogdate
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 13px;
+   color: #000000;
+}
+#Article3 .blogsubject, #Article3 .blogsubject a:link, #Article3 .blogsubject a:visited, #Article3 .blogsubject a:hover
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 20px;
+   color: #666666;
+   text-decoration: none;
+}
+#Article3 .blogcomments, #Article3 .blogcomments a:link, #Article3 .blogcomments a:visited, #Article3 .blogcomments a:hover
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   color: #000000;
+   text-decoration: underline;
+}
+#Article3 .blogcomments
+{
+   text-decoration: none;
+}
+#Article3 .no-thumb
+{
+   display: none;
+}
+#Article3 .blogsubject
+{
+   display: block;
+   margin: 0;
+   padding: 0;
+}
+#Article3 .blogthumb
+{
+   margin: 0 0 5px 0;
+   float: right;
+   padding: 0 5px 0 0;
+}
+#Article3 .blogthumb img
+{
+   border-width: 0px;
+   width: 120px;
+   height: auto;
+}
+#Article3 .blogdate, #Article3 .blogcomments
+{
+   display: none;
+}
+#Article3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px transparent solid;
+   font-family: Arial;
+   font-weight: normal;
+}
+#Layer51
+{
+   background-color: #F5F5F5;
+   background-image: none;
+   border: 1px transparent solid;
+}
+#Article4
+{
+   background-color: transparent;
+   border-width: 0;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.2;
+   text-align: left;
+}
+#Article4 .blogitem
+{
+   margin-bottom: 6px;
+   padding: 0px;
+}
+#Article4 .blogdate
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 13px;
+   color: #000000;
+}
+#Article4 .blogsubject, #Article4 .blogsubject a:link, #Article4 .blogsubject a:visited, #Article4 .blogsubject a:hover
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 20px;
+   color: #666666;
+   text-decoration: none;
+}
+#Article4 .blogcomments, #Article4 .blogcomments a:link, #Article4 .blogcomments a:visited, #Article4 .blogcomments a:hover
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   color: #000000;
+   text-decoration: underline;
+}
+#Article4 .blogcomments
+{
+   text-decoration: none;
+}
+#Article4 .no-thumb
+{
+   display: none;
+}
+#Article4 .blogsubject
+{
+   display: block;
+   margin: 0;
+   padding: 0;
+}
+#Article4 .blogthumb
+{
+   margin: 0 0 5px 0;
+   float: right;
+   padding: 0 5px 0 0;
+}
+#Article4 .blogthumb img
+{
+   border-width: 0px;
+   width: 120px;
+   height: auto;
+}
+#Article4 .blogdate, #Article4 .blogcomments
+{
+   display: none;
+}
+#Article4
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px transparent solid;
+   font-family: Arial;
+   font-weight: normal;
+}
+#Layer52
+{
+   background-color: #FFFFFF;
+   background-image: none;
+   border: 1px transparent solid;
+}
+#Article5
+{
+   background-color: transparent;
+   border-width: 0;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.2;
+   text-align: left;
+}
+#Article5 .blogitem
+{
+   margin-bottom: 6px;
+   padding: 0px;
+}
+#Article5 .blogdate
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 13px;
+   color: #000000;
+}
+#Article5 .blogsubject, #Article5 .blogsubject a:link, #Article5 .blogsubject a:visited, #Article5 .blogsubject a:hover
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 20px;
+   color: #666666;
+   text-decoration: none;
+}
+#Article5 .blogcomments, #Article5 .blogcomments a:link, #Article5 .blogcomments a:visited, #Article5 .blogcomments a:hover
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   color: #000000;
+   text-decoration: underline;
+}
+#Article5 .blogcomments
+{
+   text-decoration: none;
+}
+#Article5 .no-thumb
+{
+   display: none;
+}
+#Article5 .blogsubject
+{
+   display: block;
+   margin: 0;
+   padding: 0;
+}
+#Article5 .blogthumb
+{
+   margin: 0 0 5px 0;
+   float: right;
+   padding: 0 5px 0 0;
+}
+#Article5 .blogthumb img
+{
+   border-width: 0px;
+   width: 120px;
+   height: auto;
+}
+#Article5 .blogdate, #Article5 .blogcomments
+{
+   display: none;
+}
+#Article5
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px transparent solid;
+   font-family: Arial;
+   font-weight: normal;
+}
+#Layer53
+{
+   background-color: #F5F5F5;
+   background-image: none;
+   border: 1px transparent solid;
+}
+#Article6
+{
+   background-color: transparent;
+   border-width: 0;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.2;
+   text-align: left;
+}
+#Article6 .blogitem
+{
+   margin-bottom: 6px;
+   padding: 0px;
+}
+#Article6 .blogdate
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 13px;
+   color: #000000;
+}
+#Article6 .blogsubject, #Article6 .blogsubject a:link, #Article6 .blogsubject a:visited, #Article6 .blogsubject a:hover
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 20px;
+   color: #666666;
+   text-decoration: none;
+}
+#Article6 .blogcomments, #Article6 .blogcomments a:link, #Article6 .blogcomments a:visited, #Article6 .blogcomments a:hover
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   color: #000000;
+   text-decoration: underline;
+}
+#Article6 .blogcomments
+{
+   text-decoration: none;
+}
+#Article6 .no-thumb
+{
+   display: none;
+}
+#Article6 .blogsubject
+{
+   display: block;
+   margin: 0;
+   padding: 0;
+}
+#Article6 .blogthumb
+{
+   margin: 0 0 5px 0;
+   float: right;
+   padding: 0 5px 0 0;
+}
+#Article6 .blogthumb img
+{
+   border-width: 0px;
+   width: 120px;
+   height: auto;
+}
+#Article6 .blogdate, #Article6 .blogcomments
+{
+   display: none;
+}
+#Article6
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px transparent solid;
+   font-family: Arial;
+   font-weight: normal;
+}
+#Layer54
+{
+   background-color: #17252A;
+   background-image: none;
+   -moz-box-shadow: 0px 1px 8px #000000;
+   -webkit-box-shadow: 0px 1px 8px #000000;
+   box-shadow: 0px 1px 8px #000000;
+}
