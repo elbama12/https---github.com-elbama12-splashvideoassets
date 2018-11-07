@@ -1,6 +1,6 @@
 body
 {
-   background-color: #FFFFFF;
+   background-color: #FF0000;
    color: #000000;
    font-family: Arial;
    font-weight: normal;
@@ -1597,8 +1597,9 @@ body
    width: 100%;
    height: 100%;
 }
-#MediaPlayer1
+#YouTube1
 {
+   border-width: 0;
    left: 0;
    top: 0;
    width: 100%;
