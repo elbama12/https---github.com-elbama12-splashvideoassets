@@ -1,5 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
 
 
 .btn.btn-primary {
@@ -268,6 +269,28 @@ p {
 #header11-1p B {
   color: #e91e63;
 }
+#pricing-table1-2h H3 {
+  text-align: center;
+  font-size: 19px;
+  color: #2b3038;
+}
+#pricing-table1-2h P {
+  text-align: center;
+  font-size: 24px;
+}
+#pricing-table1-2h B {
+  font-size: 24px;
+}
+#pricing-table1-2h DIV {
+  color: #3f51b5;
+}
+#pricing-table1-2h SPAN {
+  text-align: center;
+  font-size: 24px;
+  color: #1d2739;
+  font-family: 'Raleway', sans-serif;
+}
+
 #dropdown-menu-1t .hide-buttons [data-button] {
   display: none !important;
 }
@@ -315,6 +338,27 @@ p {
 }
 #msg-box2-2a SPAN {
   color: #b8d00a;
+}
+#pricing-table1-2i H3 {
+  text-align: center;
+  font-size: 19px;
+  color: #2b3038;
+}
+#pricing-table1-2i P {
+  text-align: center;
+  font-size: 24px;
+}
+#pricing-table1-2i B {
+  font-size: 24px;
+}
+#pricing-table1-2i DIV {
+  color: #3f51b5;
+}
+#pricing-table1-2i SPAN {
+  text-align: center;
+  font-size: 24px;
+  color: #1d2739;
+  font-family: 'Raleway', sans-serif;
 }
 #extFooter1-2f .mbr-section-title {
   color: #ffffff;
