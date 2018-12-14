@@ -27,7 +27,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 196,
+    "uniqCompNum": 198,
     "versionPublish": "4.8.8",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/black-128x35.png",
@@ -1559,11 +1559,16 @@
           "_anchor": "features2-4v"
         },
         {
+          "_inherit": "header5",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showMedia": true,
+            "showForm": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/10.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#000000",
@@ -1572,116 +1577,96 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.5
+            "overlayColor": "#000",
+            "overlayOpacity": 0.15
           },
-          "title": "STATIC TEXT ART AS EXCLUSIVE BONUS 2",
-          "text": "USE THAT WITH IMAGE FOLLOW PATH ANIMATION FEATURE ON NEW EASY VIEDEO LAB 2.0.3",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box18",
-          "_anchor": "msg-box18-55"
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/PWZkGtBfbZs",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title1": "STATIC TEXT ART AS EXCLUSIVE BONUS 2, <br>GET 1 PACK FOR FREE",
+          "text": "USE THAT WITH IMAGE FOLLOW PATH ANIMATION FEATURE ON NEW EASY VIEDEO LAB 2.0.3",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-primary btn-block\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>",
+          "form": {
+            "title": "SUBSCRIBE",
+            "action": "surenokd1@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Address here"
+              }
+            }
+          },
+          "_name": "header25",
+          "_anchor": "header25-5h",
+          "_styles": {
+            "H3": {
+              "font-size": "32px"
+            }
+          }
         },
         {
           "_params": {
-            "bgImageRadio": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
+            "showTitle": true,
+            "showButtons": true,
+            "showMedia": true,
+            "paddingTop": 2,
+            "paddingBottom": 0,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
             "overlayColor": "#151515",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.9"
           },
-          "media1": {
+          "media": {
             "image": {
               "active": true,
-              "class": "mbr-figure__img img-responsive post-thumb",
+              "class": "img-responsive pull-left",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/preview1-1-1080x1080.png",
               "link": "",
               "alt": "",
               "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
             }
           },
-          "title1": "Bakery egg foods around the world",
-          "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text1": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/2.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title2": "Bakery egg foods around the world",
-          "info2": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text2": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/3.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title3": "Bakery egg foods around the world",
-          "info3": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text3": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/4.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title4": "Bakery egg foods around the world",
-          "info4": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text4": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "title": "DOWNLOAD BONUSES&nbsp;<br>(1 PACK FOR FREE)<br>",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://eyelandstudio.syncedtool.com/shares/file/7fc471818818f2/\" class=\"btn mbr-title-font btn-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD HERE</a>",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box21",
-          "_anchor": "msg-box21-57"
+          "_name": "header19",
+          "_anchor": "header19-5g",
+          "_styles": {
+            ".btn": {
+              "font-size": "23px"
+            }
+          }
         },
         {
           "_params": {
@@ -2713,7 +2698,7 @@
           },
           "title": "<span style=\"font-size: 32px;\">EXCLUSIVE BONUS</span><p><span style=\"font-size: 32px; background-color: inherit;\">4 sets of text art</span></p>",
           "text": "",
-          "buttons": "<p><a class=\"btn mbr-title-font cta-btn btn-warning\" href=\"https://drive.google.com/open?id=17PTWM4idSDt65HuOb_g5MmbqRdZQ_N0-\" data-app-btn=\"true\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">download</a></p>",
+          "buttons": "<p><a class=\"btn mbr-title-font cta-btn btn-warning\" href=\"https://eyelandstudio.syncedtool.com/shares/file/6f1a0c4bbb03c8/?fbclid=IwAR2IWtDuSe5kGJw1dxh1m0clSfNGGfG1FuPDR4AQKi5-D3tIvcmNWf65cDQ\" data-app-btn=\"true\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">download</a></p>",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
