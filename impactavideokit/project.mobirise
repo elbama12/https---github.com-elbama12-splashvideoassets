@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "IMPACTA DESIGN KIT",
-    "currentPage": "tqimp.html",
+    "name": "IMPACTA VIDEO KIT",
+    "currentPage": "index.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -38,7 +38,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "IMPACTA DESIGN KIT",
+        "title": "IMPACTA VIDEO KIT",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1705,7 +1705,7 @@
               "active": true,
               "class": "mbr-figure__img img-responsive post-thumb",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/previe4-1-1080x1080.png",
+              "src": "@PROJECT_PATH@/assets/images/preview3-1-1080x1080.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -1804,7 +1804,7 @@
               "active": true,
               "class": "mbr-figure__img img-responsive post-thumb",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/previe4-1-1080x1080.png",
+              "src": "@PROJECT_PATH@/assets/images/preview3-1-1080x1080.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -1903,7 +1903,7 @@
               "active": true,
               "class": "mbr-figure__img img-responsive post-thumb",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/previe4-1-1080x1080.png",
+              "src": "@PROJECT_PATH@/assets/images/preview3-1-1080x1080.png",
               "link": "",
               "alt": "",
               "title": ""
