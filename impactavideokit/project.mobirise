@@ -27,7 +27,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 192,
+    "uniqCompNum": 195,
     "versionPublish": "4.8.8",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/black-128x35.png",
@@ -1686,8 +1686,8 @@
         {
           "_params": {
             "bgImageRadio": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
@@ -1705,7 +1705,7 @@
               "active": true,
               "class": "mbr-figure__img img-responsive post-thumb",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/preview3-1-1080x1080.png",
+              "src": "@PROJECT_PATH@/assets/images/preview2-1060x957.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -1780,13 +1780,13 @@
             "Theme"
           ],
           "_name": "msg-box21",
-          "_anchor": "msg-box21-58"
+          "_anchor": "msg-box21-5c"
         },
         {
           "_params": {
             "bgImageRadio": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
@@ -1879,13 +1879,13 @@
             "Theme"
           ],
           "_name": "msg-box21",
-          "_anchor": "msg-box21-59"
+          "_anchor": "msg-box21-5d"
         },
         {
           "_params": {
             "bgImageRadio": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
@@ -1903,7 +1903,7 @@
               "active": true,
               "class": "mbr-figure__img img-responsive post-thumb",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/preview3-1-1080x1080.png",
+              "src": "@PROJECT_PATH@/assets/images/previe4-1-1080x1080.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -1978,7 +1978,7 @@
             "Theme"
           ],
           "_name": "msg-box21",
-          "_anchor": "msg-box21-5a"
+          "_anchor": "msg-box21-5e"
         },
         {
           "_params": {
