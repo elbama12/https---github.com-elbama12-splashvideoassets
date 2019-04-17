@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "3d Video Kit",
-    "currentPage": "index.html",
+    "currentPage": "tq3dve.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -17,13 +17,15 @@
       },
       "additionalSetColors": [
         "#3d3d3d",
-        "#ffffff"
+        "#ffffff",
+        "#2c2c2c",
+        "#663d3d"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.8",
     "siteFonts": [],
-    "uniqCompNum": 68,
+    "uniqCompNum": 84,
     "versionPublish": "4.8.8",
     "screenshot": "screenshot.png"
   },
@@ -101,10 +103,10 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "src": "https://www.youtube.com/watch?v=_HfwrFmVySc",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
-              "autoplay": false,
+              "autoplay": "on",
               "loop": false
             }
           },
@@ -350,7 +352,7 @@
               "loop": false
             }
           },
-          "title": "<b>Here's What You'll Get</b><div><b>16 DONE FOR YOU TEMPLATE</b></div>",
+          "title": "<font color=\"#ffffff\"><b>Here's What You'll Get</b></font><div><font color=\"#ffffff\"><b>9 DONE FOR YOU TEMPLATES</b></font></div>",
           "text": "Easy to Edit and Replace in Few Minutes",
           "buttons": "<a class=\"mbr-title-font mbr-primary-bgColor\" data-app-btn=\"true\" href=\"#\"><i class=\"fa fa-mobile\"></i><span class=\"mbr-text-font\">Available at</span>AppStore</a><a class=\"mbr-title-font mbr-primary-bgColor\" data-app-btn=\"true\" href=\"#\"><i class=\"fa fa-google\"></i> <span class=\"mbr-text-font\">Get the app for</span>Googleplay</a>",
           "alias": "unicore/components",
@@ -373,6 +375,437 @@
             }
           },
           "_anchor": "header12-g"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showInfo": false,
+            "showMedia": true,
+            "showText": false,
+            "bgImageRadio": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/1.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/ZCw7fbMcynM",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": "on",
+              "active": true
+            }
+          },
+          "title1": "Bakery egg foods around the world",
+          "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text1": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media2": {
+            "image": {
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/2.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/BzMb3U43vKY",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": "on",
+              "active": true
+            }
+          },
+          "title2": "Bakery egg foods around the world",
+          "info2": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text2": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media3": {
+            "image": {
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/3.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/GOmbMSEwUuw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": "on",
+              "active": true
+            }
+          },
+          "title3": "Bakery egg foods around the world",
+          "info3": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text3": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media4": {
+            "image": {
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/4.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/TobU_pGX3fw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": "on",
+              "active": true
+            }
+          },
+          "title4": "Bakery egg foods around the world",
+          "info4": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text4": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media5": {
+            "image": {
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/5.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/qVyOW63r230",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": "on",
+              "active": true
+            }
+          },
+          "title5": "Bakery egg foods around the world",
+          "info5": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text5": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media6": {
+            "image": {
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "file:///Users/elbama/Desktop/IMPACTADESIGNKIT//assets/images/blank-58x58.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://youtu.be/P4NMVViywI8",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": "on",
+              "active": true
+            }
+          },
+          "title6": "Bakery egg foods around the world",
+          "info6": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text6": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box10",
+          "_anchor": "msg-box10-1p"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showInfo": false,
+            "showMedia": true,
+            "showText": false,
+            "bgImageRadio": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/1.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/p0MW58SiO-A",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": "on",
+              "active": true
+            }
+          },
+          "title1": "Bakery egg foods around the world",
+          "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text1": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media2": {
+            "image": {
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/2.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/OEe6bHWyEMk",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": "on",
+              "active": true
+            }
+          },
+          "title2": "Bakery egg foods around the world",
+          "info2": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text2": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media3": {
+            "image": {
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/3.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/iiQeB0ESedE",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": "on",
+              "active": true
+            }
+          },
+          "title3": "Bakery egg foods around the world",
+          "info3": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text3": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media4": {
+            "image": {
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/4.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=8tR-jZw-hb0",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": "on",
+              "active": true
+            }
+          },
+          "title4": "Bakery egg foods around the world",
+          "info4": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text4": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media5": {
+            "image": {
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/5.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=5FmZr6as63s",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": "on",
+              "active": true
+            }
+          },
+          "title5": "Bakery egg foods around the world",
+          "info5": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text5": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media6": {
+            "image": {
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "file:///Users/elbama/Desktop/IMPACTADESIGNKIT//assets/images/blank-58x58.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=4HU8CgHSvx4",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": "on",
+              "active": true
+            }
+          },
+          "title6": "Bakery egg foods around the world",
+          "info6": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text6": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box10",
+          "_anchor": "msg-box10-1q"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showMedia": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/19.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#e6e6e6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.85
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive center-block",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/10.png"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<span style=\"font-size: 48px;\"><b>7 3D SCENE TURN ANIMATIONS</b></span>",
+          "text": "MP4 GREEN SCREEN FORMAT FILES",
+          "buttons": "<a class=\"mbr-title-font mbr-primary-bgColor\" data-app-btn=\"true\" href=\"#\"><i class=\"fa fa-mobile\"></i><span class=\"mbr-text-font\">Available at</span>AppStore</a><a class=\"mbr-title-font mbr-primary-bgColor\" data-app-btn=\"true\" href=\"#\"><i class=\"fa fa-google\"></i> <span class=\"mbr-text-font\">Get the app for</span>Googleplay</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header12",
+          "_styles": {
+            "H3": {
+              "color": "#1b1a1a"
+            },
+            "P": {
+              "color": "#1b1a1a"
+            },
+            "B": {
+              "font-size": "48px"
+            }
+          },
+          "_anchor": "header12-1c"
+        },
+        {
+          "_params": {
+            "bgImageRadio": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/1.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=3Z-JmdvEZiM",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "title1": "Bakery egg foods around the world",
+          "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text1": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/2.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title2": "Bakery egg foods around the world",
+          "info2": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text2": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/3.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title3": "Bakery egg foods around the world",
+          "info3": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text3": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/blog/4.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title4": "Bakery egg foods around the world",
+          "info4": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text4": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box21",
+          "_anchor": "msg-box21-2b"
         },
         {
           "_params": {
@@ -511,759 +944,7 @@
             "Theme"
           ],
           "_name": "msg-box10",
-          "_anchor": "msg-box10-1p"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showInfo": false,
-            "showMedia": true,
-            "showText": false,
-            "bgImageRadio": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/1.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=3Z-JmdvEZiM",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title1": "Bakery egg foods around the world",
-          "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text1": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media2": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/2.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Fki-xGL-jX0",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title2": "Bakery egg foods around the world",
-          "info2": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text2": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media3": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/3.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=b4DGgDNx2G8",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title3": "Bakery egg foods around the world",
-          "info3": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text3": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media4": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/4.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=8tR-jZw-hb0",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title4": "Bakery egg foods around the world",
-          "info4": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text4": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media5": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/5.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=5FmZr6as63s",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title5": "Bakery egg foods around the world",
-          "info5": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text5": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media6": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "file:///Users/elbama/Desktop/IMPACTADESIGNKIT//assets/images/blank-58x58.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=4HU8CgHSvx4",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title6": "Bakery egg foods around the world",
-          "info6": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text6": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "alias": "unicore/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box10",
-          "_anchor": "msg-box10-1q"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showInfo": false,
-            "showMedia": true,
-            "showText": false,
-            "bgImageRadio": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/1.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=3Z-JmdvEZiM",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title1": "Bakery egg foods around the world",
-          "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text1": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media2": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/2.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Fki-xGL-jX0",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title2": "Bakery egg foods around the world",
-          "info2": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text2": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media3": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/3.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=b4DGgDNx2G8",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title3": "Bakery egg foods around the world",
-          "info3": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text3": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media4": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/4.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=8tR-jZw-hb0",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title4": "Bakery egg foods around the world",
-          "info4": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text4": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media5": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/5.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=5FmZr6as63s",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title5": "Bakery egg foods around the world",
-          "info5": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text5": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media6": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "file:///Users/elbama/Desktop/IMPACTADESIGNKIT//assets/images/blank-58x58.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=4HU8CgHSvx4",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title6": "Bakery egg foods around the world",
-          "info6": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text6": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "alias": "unicore/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box10",
-          "_anchor": "msg-box10-1r"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showInfo": false,
-            "showMedia": true,
-            "showText": false,
-            "bgImageRadio": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/1.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=3Z-JmdvEZiM",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title1": "Bakery egg foods around the world",
-          "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text1": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media2": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/2.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Fki-xGL-jX0",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title2": "Bakery egg foods around the world",
-          "info2": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text2": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media3": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/3.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=b4DGgDNx2G8",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title3": "Bakery egg foods around the world",
-          "info3": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text3": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media4": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/4.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=8tR-jZw-hb0",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title4": "Bakery egg foods around the world",
-          "info4": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text4": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media5": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/5.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=5FmZr6as63s",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title5": "Bakery egg foods around the world",
-          "info5": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text5": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media6": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "file:///Users/elbama/Desktop/IMPACTADESIGNKIT//assets/images/blank-58x58.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=4HU8CgHSvx4",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title6": "Bakery egg foods around the world",
-          "info6": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text6": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "alias": "unicore/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box10",
-          "_anchor": "msg-box10-1s"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showMedia": false,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/19.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#e6e6e6",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.85
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img img-responsive center-block",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/10.png"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "<b>7 VARIANT OF 3D SCENE TURN ANIMATION STYLE</b>",
-          "text": "MP4 GREEN SCREEN FORMAT FILES",
-          "buttons": "<a class=\"mbr-title-font mbr-primary-bgColor\" data-app-btn=\"true\" href=\"#\"><i class=\"fa fa-mobile\"></i><span class=\"mbr-text-font\">Available at</span>AppStore</a><a class=\"mbr-title-font mbr-primary-bgColor\" data-app-btn=\"true\" href=\"#\"><i class=\"fa fa-google\"></i> <span class=\"mbr-text-font\">Get the app for</span>Googleplay</a>",
-          "alias": "unicore/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header12",
-          "_styles": {
-            "H3": {
-              "color": "#1b1a1a"
-            },
-            "P": {
-              "color": "#1b1a1a"
-            },
-            "B": {
-              "font-size": "48px"
-            }
-          },
-          "_anchor": "header12-1c"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showInfo": false,
-            "showMedia": true,
-            "showText": false,
-            "bgImageRadio": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/1.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=3Z-JmdvEZiM",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title1": "Bakery egg foods around the world",
-          "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text1": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media2": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/2.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Fki-xGL-jX0",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title2": "Bakery egg foods around the world",
-          "info2": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text2": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media3": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/3.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=b4DGgDNx2G8",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title3": "Bakery egg foods around the world",
-          "info3": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text3": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media4": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/4.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=8tR-jZw-hb0",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title4": "Bakery egg foods around the world",
-          "info4": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text4": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media5": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/5.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=5FmZr6as63s",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title5": "Bakery egg foods around the world",
-          "info5": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text5": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media6": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "file:///Users/elbama/Desktop/IMPACTADESIGNKIT//assets/images/blank-58x58.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=4HU8CgHSvx4",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title6": "Bakery egg foods around the world",
-          "info6": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text6": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "alias": "unicore/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box10",
           "_anchor": "msg-box10-1t"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showInfo": false,
-            "showMedia": true,
-            "showText": false,
-            "bgImageRadio": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/1.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=3Z-JmdvEZiM",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title1": "Bakery egg foods around the world",
-          "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text1": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media2": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/2.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Fki-xGL-jX0",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title2": "Bakery egg foods around the world",
-          "info2": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text2": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media3": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/3.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=b4DGgDNx2G8",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title3": "Bakery egg foods around the world",
-          "info3": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text3": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media4": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/4.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=8tR-jZw-hb0",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title4": "Bakery egg foods around the world",
-          "info4": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text4": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media5": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/blog/5.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=5FmZr6as63s",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title5": "Bakery egg foods around the world",
-          "info5": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text5": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "media6": {
-            "image": {
-              "class": "mbr-figure__img img-responsive post-thumb",
-              "width": 1400,
-              "src": "file:///Users/elbama/Desktop/IMPACTADESIGNKIT//assets/images/blank-58x58.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=4HU8CgHSvx4",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "title6": "Bakery egg foods around the world",
-          "info6": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text6": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
-          "alias": "unicore/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box10",
-          "_anchor": "msg-box10-1u"
         },
         {
           "_params": {
@@ -1301,7 +982,7 @@
               "loop": "on"
             }
           },
-          "title": "24 VARIANT OF 3D LOWER THIRDS",
+          "title": "24 3D LOWER THIRD ANIMATIONS",
           "text": "<p>Transparent MOV Format Files</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Purchase Now <i class=\"fa fa-shopping-basket\"></i></a>",
           "alias": "unicore/components",
@@ -1352,7 +1033,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=ewCdFrZOhoY",
+              "src": "https://www.youtube.com/watch?v=NetyzkBxc2k",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -1417,7 +1098,7 @@
               "loop": false
             }
           },
-          "title": "<b>15 Variant Of 3D Static Background&nbsp;</b>",
+          "title": "<font color=\"#ffffff\"><b>16 3D Frame&nbsp;</b></font>",
           "text": "Transparent PNG Format Files",
           "buttons": "<a class=\"mbr-title-font mbr-primary-bgColor\" data-app-btn=\"true\" href=\"#\"><i class=\"fa fa-mobile\"></i><span class=\"mbr-text-font\">Available at</span>AppStore</a><a class=\"mbr-title-font mbr-primary-bgColor\" data-app-btn=\"true\" href=\"#\"><i class=\"fa fa-google\"></i> <span class=\"mbr-text-font\">Get the app for</span>Googleplay</a>",
           "alias": "unicore/components",
@@ -1576,7 +1257,7 @@
               "loop": false
             }
           },
-          "title": "<b>10 Variant Of 3D Static Text Box</b>",
+          "title": "<font color=\"#ffffff\"><b>12 3D Static Text Boxes</b></font>",
           "text": "Transparent PNG Format Files",
           "buttons": "<a class=\"mbr-title-font mbr-primary-bgColor\" data-app-btn=\"true\" href=\"#\"><i class=\"fa fa-mobile\"></i><span class=\"mbr-text-font\">Available at</span>AppStore</a><a class=\"mbr-title-font mbr-primary-bgColor\" data-app-btn=\"true\" href=\"#\"><i class=\"fa fa-google\"></i> <span class=\"mbr-text-font\">Get the app for</span>Googleplay</a>",
           "alias": "unicore/components",
@@ -1736,8 +1417,8 @@
               "loop": false
             }
           },
-          "title": "STATIC TEXT ART AS EXCLUSIVE BONUS 2, GET 1 PACK FOR FREE",
-          "text": "USE THAT WITH IMAGE FOLLOW PATH ANIMATION FEATURE ON NEW EASY VIEDEO LAB 2.0.3<br>",
+          "title": "3 FLEXIBLE MUSIC LAB AS EXCLUSIVE BONUS&nbsp;",
+          "text": "SET THE TRACK TO ANY VIDEO DURATION WITH A SINGLE CLICK WITH FLEXMUSIC LAB (INCLUDED FOR FREE)<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\">Check video</a>",
           "alias": "unicore/components",
           "_tags": [
@@ -1831,6 +1512,488 @@
               "font-size": "36px"
             }
           }
+        }
+      ]
+    },
+    "tq3dve.html": {
+      "settings": {
+        "title": "tq3dve",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showMedia": false,
+            "bgImageRadio": true,
+            "paddingTop": 2,
+            "paddingBottom": "2",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2c2c2c",
+            "overlayOpacity": "0.9"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/de37-2-1272x2502.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Thank You for Purchasing",
+          "text": "<p>CLICK ON THE BUTTONS BELOW TO DOWNLOAD ALL PURCHASED FILES</p><p><br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-lg btn-primary\">Purchase Now <i class=\"fa fa-shopping-basket\"></i></a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header9",
+          "_anchor": "header9-1y",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showMedia": false,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/5.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive center-block",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desk.png"
+            }
+          },
+          "title": "GET FLEXMUSIC LAB FOR FREE.",
+          "text": "Click on the button below to download, get free FlexMusic LAB compatible for windows, and mac.<br>",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://eyelandstudio.syncedtool.com/shares/file/50a1255aefa2f0/\" class=\"btn mbr-title-font btn-lg btn-primary btn-shadow\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">mac version</a><a data-app-btn=\"true\" href=\"https://eyelandstudio.syncedtool.com/shares/file/89a57f2d923316/\" class=\"btn mbr-title-font btn-lg btn-default btn-border btn-shadow\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WINDOWS VERSION</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header16",
+          "_anchor": "header16-1z"
+        },
+        {
+          "_inherit": "header6",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/12.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#4caf50",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.35
+          },
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "title": "GET EASY VIDEO LAB LITE FOR FREE.",
+          "text": "Click on the button below to download, get free EASY VIDEO LAB LITE compatible for windows, and mac.<br>",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://eyelandstudio.syncedtool.com/shares/file/5162bea9e3dc06/\" class=\"btn mbr-title-font btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MAC VERSION</a><a data-app-btn=\"true\" href=\"https://eyelandstudio.syncedtool.com/shares/file/7f5c8d7df4ca3a/\" class=\"btn mbr-title-font btn-lg btn-default btn-border\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WINDOWS VERSION<i class=\"fa fa-angle-right\"></i></a>",
+          "_name": "header26",
+          "_anchor": "header26-21"
+        },
+        {
+          "_inherit": "header7",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/14.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#8c230e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.25,
+            "showIcons": false,
+            "iconsColor": "#fff",
+            "icon1": "fa-database",
+            "icon2": "fa-lightbulb-o",
+            "icon3": "fa-money",
+            "icon4": "fa-clock-o",
+            "showTitles": false
+          },
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "title": "GET COOL DISCOUNT FOR EASY VIDEO LAB VERSION",
+          "title1": "Multi Layouts",
+          "title2": "Creative Idea",
+          "title3": "Target Buyers",
+          "title4": "Reach Top",
+          "text": "USE THIS coupon code for $15 off Easy Video Lab.<br>cmotionteam15off<br>",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://jvz8.com/c/373159/255987\" class=\"btn mbr-title-font btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET EASY VIDEO LAB DISCOUNT<i class=\"fa fa-shopping-basket\"></i></a>",
+          "_name": "header27",
+          "_anchor": "header27-22"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showMedia": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/19.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#3d3d3d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.85
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive center-block",
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/10.png"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<b>3DVe Download Links</b>",
+          "text": "",
+          "buttons": "<a class=\"mbr-title-font mbr-primary-bgColor\" data-app-btn=\"true\" href=\"#\"><i class=\"fa fa-mobile\"></i><span class=\"mbr-text-font\">Available at</span>AppStore</a><a class=\"mbr-title-font mbr-primary-bgColor\" data-app-btn=\"true\" href=\"#\"><i class=\"fa fa-google\"></i> <span class=\"mbr-text-font\">Get the app for</span>Googleplay</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header12",
+          "_styles": {
+            "H3": {
+              "color": "#1b1a1a"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffc107"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header12-23"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#2c2c2c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<span style=\"font-size: 32px;\">3d lower third animations</span>",
+          "text": "",
+          "buttons": "<p><a class=\"btn mbr-title-font cta-btn btn-warning\" href=\"https://dal223.hawkhost.com:2083/cpsess2087981370/download?skipencode=1&amp;file=%2fhome%2fcmotiong%2fpublic_html%2f3DVefiles%2f3D%20Lower%20Thirds.zip\" data-app-btn=\"true\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">download</a></p>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffc107"
+            }
+          },
+          "_anchor": "msg-box2-24"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#663d3d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<span style=\"font-size: 32px;\">3d scene turn animations</span>",
+          "text": "",
+          "buttons": "<p><a class=\"btn mbr-title-font cta-btn btn-warning\" href=\"https://dal223.hawkhost.com:2083/cpsess2087981370/download?skipencode=1&amp;file=%2fhome%2fcmotiong%2fpublic_html%2f3DVefiles%2f3D%20Scene.zip\" data-app-btn=\"true\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">download</a></p>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffc107"
+            }
+          },
+          "_anchor": "msg-box2-25"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#2c2c2c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<span style=\"font-size: 32px;\">3d single objects</span>",
+          "text": "",
+          "buttons": "<p><a class=\"btn mbr-title-font cta-btn btn-warning\" href=\"https://eyelandstudio.syncedtool.com/shares/file/5e774f8fce6089/?fbclid=IwAR3CH-AFcy1oZ4Bk7WvbKtFLS-NgZS7hOel8ugWlzvLLyAd7_n6HbUqedD8\" data-app-btn=\"true\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">download</a></p>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffc107"
+            }
+          },
+          "_anchor": "msg-box2-26"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#663d3d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<span style=\"font-size: 32px;\">static backgrounds</span>",
+          "text": "",
+          "buttons": "<p><a class=\"btn mbr-title-font cta-btn btn-warning\" href=\"https://dal223.hawkhost.com:2083/cpsess2087981370/download?skipencode=1&amp;file=%2fhome%2fcmotiong%2fpublic_html%2f3DVefiles%2fStatic%20Background.zip\" data-app-btn=\"true\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">download</a></p>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffc107"
+            }
+          },
+          "_anchor": "msg-box2-27"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#2c2c2c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<span style=\"font-size: 32px;\">3d video kit templates</span>",
+          "text": "",
+          "buttons": "<p><a class=\"btn mbr-title-font cta-btn btn-warning\" href=\"https://eyelandstudio.syncedtool.com/shares/file/ffcf493de22078/?fbclid=IwAR171ZQeYRPkQYe2FGcZ3f3U8FFSo2wHG40I-WKFDZFlLj8_JuOqe4NTWaM\" data-app-btn=\"true\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">download</a></p>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffc107"
+            }
+          },
+          "_anchor": "msg-box2-28"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#663d3d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<span style=\"font-size: 32px;\">3d text boxes</span>",
+          "text": "",
+          "buttons": "<p><a class=\"btn mbr-title-font cta-btn btn-warning\" href=\"https://dal223.hawkhost.com:2083/cpsess2087981370/download?skipencode=1&amp;file=%2fhome%2fcmotiong%2fpublic_html%2f3DVefiles%2fText%20Box.zip\" data-app-btn=\"true\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">download</a></p>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffc107"
+            }
+          },
+          "_anchor": "msg-box2-29"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#2c2c2c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<span style=\"font-size: 32px;\">3 flexyble music tracks</span>",
+          "text": "AS EXLUSIVE BONUS",
+          "buttons": "<p><a class=\"btn mbr-title-font cta-btn btn-warning\" href=\"https://dal223.hawkhost.com:2083/cpsess2087981370/download?skipencode=1&amp;file=%2fhome%2fcmotiong%2fpublic_html%2f3DVefiles%2fBonus_Tracks.zip\" data-app-btn=\"true\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">download</a></p>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffc107"
+            }
+          },
+          "_anchor": "msg-box2-2a"
         }
       ]
     }
