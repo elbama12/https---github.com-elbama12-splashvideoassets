@@ -1,0 +1,312 @@
+@font-face
+{
+font-family:oswald;
+src:url(../fonts/Oswald.otf);
+}
+.hs_date_wrapper {
+float: left;
+width: 100%;
+}
+
+.hs_time {
+height: auto;
+width: 100%;
+margin-top: 15px;
+}
+
+
+.hs_time .hs_time_part {
+width: 100%;
+}
+@media (min-width:240px){
+.hs_hours {
+font-size:18px;
+}
+.timer_caption
+{
+font-size:16px;
+}
+.hs_days
+{
+font-size:9px;
+}
+.hs_hour
+{
+font-size:9px;
+}
+.hs_min
+{
+font-size:9px;
+}
+.hs_sec
+{
+font-size:9px;
+}
+.hs_days {
+	color: #000;
+	float: left;
+	text-align:center;
+	height: auto;
+	width:25%;
+	text-decoration: none;
+	margin-top: -2%;
+	text-transform: capitalize;
+}
+
+.hs_min {
+	color: #000;
+	float: left;
+	height: auto;
+	width:25%;
+	text-align:center;
+	padding-right:10px;
+	text-decoration: none;
+	margin-top: -2%;
+	text-transform: capitalize;
+}
+
+.hs_sec {
+	color: #000;
+	float: left;
+	height: auto;
+	width:25%;
+	text-align:center;
+	padding-right:13px;
+	text-decoration: none;
+	margin-top: -2%;
+	text-transform: capitalize;
+}
+
+.hs_hour {
+	color: #000;
+	float: left;
+	height: auto;
+	text-align:center;
+	width:25%;
+	text-decoration: none;
+	margin-top: -2%;
+	text-transform: capitalize;
+}
+}
+
+@media (min-width:768px){
+.hs_hours {
+font-size:22px;
+}
+.timer_caption
+{
+font-size:1.2em;
+}
+.hs_days
+{
+font-size:10px;
+}
+.hs_hour
+{
+font-size:10px;
+}
+.hs_min
+{
+font-size:10px;
+}
+.hs_sec
+{
+font-size:10px;
+}
+.hs_days {
+	color: #000;
+	float: left;
+	text-align:right;
+	height: auto;
+	width:25%;
+	text-decoration: none;
+	margin-top: -2%;
+	text-transform: capitalize;
+}
+
+.hs_min {
+	color: #000;
+	float: left;
+	height: auto;
+	width:25%;
+	text-align:center;
+	padding-right:10px;
+	text-decoration: none;
+	margin-top: -2%;
+	text-transform: capitalize;
+}
+
+.hs_sec {
+	color: #000;
+	float: left;
+	height: auto;
+	width:25%;
+	text-align:left;
+	text-decoration: none;
+	margin-top: -2%;
+	text-transform: capitalize;
+}
+
+.hs_hour {
+	color: #000;
+	float: left;
+	height: auto;
+	text-align:center;
+	width:25%;
+	text-decoration: none;
+	margin-top: -2%;
+	text-transform: capitalize;
+}
+}
+@media (min-width:992px){
+.hs_hours {
+font-size:27px;
+}
+.timer_caption
+{
+font-size:1.4em;
+}
+.hs_days
+{
+font-size:12px;
+}
+.hs_hour
+{
+font-size:12px;
+}
+.hs_min
+{
+font-size:12px;
+}
+.hs_sec
+{
+font-size:12px;
+}
+.hs_days {
+	color: #000;
+	float: left;
+	text-align:right;
+	height: auto;
+	width:25%;
+	text-decoration: none;
+	margin-top: -2%;
+	text-transform: capitalize;
+}
+
+.hs_min {
+	color: #000;
+	float: left;
+	height: auto;
+	width:25%;
+	text-align:center;
+	padding-right:10px;
+	text-decoration: none;
+	margin-top: -2%;
+	text-transform: capitalize;
+}
+
+.hs_sec {
+	color: #000;
+	float: left;
+	height: auto;
+	width:25%;
+	text-align:left;
+	text-decoration: none;
+	margin-top: -2%;
+	text-transform: capitalize;
+}
+
+.hs_hour {
+	color: #000;
+	float: left;
+	height: auto;
+	text-align:center;
+	width:25%;
+	text-decoration: none;
+	margin-top: -2%;
+	text-transform: capitalize;
+}
+}
+@media (min-width:1200px){
+.hs_hours {
+font-size:28px;
+}
+.timer_caption
+{
+font-size:1.8em;
+}
+.hs_days
+{
+font-size:12px;
+}
+.hs_hour
+{
+font-size:12px;
+}
+.hs_min
+{
+font-size:12px;
+}
+.hs_sec
+{
+font-size:12px;
+}
+.hs_days {
+	color: #000;
+	float: left;
+	text-align:center;
+	height: auto;
+	width:25%;
+	text-decoration: none;
+	margin-top: -2%;
+	text-transform: capitalize;
+}
+
+.hs_min {
+	color: #000;
+	float: left;
+	height: auto;
+	width:25%;
+	text-align:center;
+	text-decoration: none;
+	margin-top: -2%;
+	text-transform: capitalize;
+}
+
+.hs_sec {
+	color: #000;
+	float: left;
+	height: auto;
+	width:25%;
+	text-align:center;
+	text-decoration: none;
+	margin-top: -2%;
+	text-transform: capitalize;
+}
+
+.hs_hour {
+	color: #000;
+	float: left;
+	height: auto;
+	text-align:center;
+	width:25%;
+	text-decoration: none;
+	margin-top: -2%;
+	text-transform: capitalize;
+}
+}
+.hs_hours {
+color: #000;
+float: left;
+height: auto;
+width: 100%;
+text-align:center;
+font-family:oswald;
+text-decoration: none;
+}
+.dt_title
+{
+	width:100%;
+	margin-top: -5%;
+}
+
